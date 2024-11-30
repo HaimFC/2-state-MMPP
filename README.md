@@ -73,8 +73,3 @@ These differences are reflected in the buffer occupancy plots, illustrating how 
 ## Acknowledgments
 
 This project was developed to explore traffic modeling using Markov processes and analyze its impact on queue performance.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
